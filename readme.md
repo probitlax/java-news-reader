@@ -10,9 +10,7 @@
 
 | No. | Explanation                                                                                                                                                      
 | --- | -----------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                              
-| 1   | Spring Boot 2, Java: Read input data from an external http source every x seconds: https://docs.coincap.io or https://newsapi.org/ or https://api.nasa.gov/
-
-|
+| 1   | Spring Boot 2, Java: Read input data from an external http source every x seconds: https://docs.coincap.io or https://newsapi.org/ or https://api.nasa.gov/ |
 
 | 2   | Process data with any rules (modify input value, add additional values)
 |               
